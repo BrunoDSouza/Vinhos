@@ -13,5 +13,3 @@ Foram utilizadas as seguintes ferramentas:
 - PostgreSQL
 - Heroku(Deploy)
 - Spring Tool Suite(IDE)
-
-Para mais informações em [Bruno D. Souza](www.facebook.com/zieg07)
