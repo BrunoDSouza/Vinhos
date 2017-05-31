@@ -1,7 +1,7 @@
 #Vinhos Aplication MVC
 
 Este é um pequeno projeto que demonstra o uso de uma aplicação desenvolvida
-em Spring MVC
+em Java com tecnologias Spring
 
 Foram utilizadas as seguintes ferramentas:
 
